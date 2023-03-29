@@ -1,6 +1,6 @@
 # Bose landing page
-Technologies used: HTML, CSS, SASS
+Technologies used: HTML, CSS, SASS, JS
 
-[PREVIEW](https://igor-kashchenko.github.io/bose-landing/)
+[DEMO](https://igor-kashchenko.github.io/bose-landing/)
 
-[DESIGN](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1&t=pAz8MajzfdnB86yQ-0)
+[LAYOUT](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1&t=pAz8MajzfdnB86yQ-0)
